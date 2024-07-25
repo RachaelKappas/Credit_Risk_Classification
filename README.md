@@ -17,7 +17,7 @@ High-Risk Loans (1): 0.85 - The precision for high-risk loans is slightly lower,
 Healthy Loans (0): 0.99 - The model has a high recall for healthy loans, successfully identifying nearly all healthy loans.
 High-Risk Loans (1): 0.91 - The recall for high-risk loans is high, meaning the model effectively identifies most high-risk loans, though there are a few false negatives.
 
-#Summary
+# Summary
 The logistic regression model demonstrates robust performance in predicting credit risk, particularly in identifying healthy loans with near-perfect precision and recall. For high-risk loans, the model is also effective but with a slight trade-off between precision and recall.
 
 
